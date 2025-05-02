@@ -50,6 +50,8 @@ This model can be trained using a text corpus like:
 - Wikipedia dumps
 - Custom text data
 
+- https://www.linkedin.com/in/akshatbhatnagar908/
+
 ## Contribution
 Feel free to fork the repository and contribute with improvements. Pull requests are welcome!
 
